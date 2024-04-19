@@ -5,10 +5,10 @@ export interface doc {
 export const docs: doc[] = [
   {
     label: "themes",
-    link: "docs/themes",
+    link: "/docs/themes",
   },
   {
     label: "components",
-    link: "docs/components",
+    link: "/docs/components",
   },
 ];
